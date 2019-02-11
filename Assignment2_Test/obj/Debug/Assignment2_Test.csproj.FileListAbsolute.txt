@@ -1,0 +1,12 @@
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\Assignment2_Test.dll
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\Assignment2_Test.pdb
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\ConsoleApp1.exe
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\nunit.framework.dll
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\ConsoleApp1.pdb
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\ConsoleApp1.exe.config
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\bin\Debug\nunit.framework.xml
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\obj\Debug\Assignment2_Test.csprojAssemblyReference.cache
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\obj\Debug\Assignment2_Test.csproj.CoreCompileInputs.cache
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\obj\Debug\Assignment2_Test.csproj.CopyComplete
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\obj\Debug\Assignment2_Test.dll
+C:\Users\inder\source\repos\ConsoleApp1\Assignment2_Test\obj\Debug\Assignment2_Test.pdb
