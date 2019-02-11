@@ -8,8 +8,7 @@ using NUnit.Framework;
 
 namespace Assignment2_Test
 {
-
-    public class Assignment2_Test
+   public class Assignment2_Test
     {
         [TestFixture]
         public class Prog8170_Assignment2_Tests
